@@ -36,7 +36,7 @@ public class Typing : MonoBehaviour
     {
         if (Input.anyKeyDown)
         {
-            string keyPressed = Input.inputString;
+            string keyPressed = Input.inputString.ToLower();
 
             if(keyPressed.Length == 1)
             {
