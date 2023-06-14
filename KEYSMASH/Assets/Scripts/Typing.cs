@@ -38,7 +38,7 @@ public class Typing : MonoBehaviour
         {
             string keyPressed = Input.inputString;
 
-            if(keysPressed.Length == 1)
+            if(keyPressed.Length == 1)
             {
                 EnterLetter(keyPressed);
             }
@@ -47,21 +47,29 @@ public class Typing : MonoBehaviour
 
     private void EnterLetter(string typedLetter)
     {
+        if (IsCorrectLetter(typedLetter))
+        {
+            RemoveLetter();
 
+            if (IsWordComplete()){
+                SetCurrentWord();
+            }
+        }
     }
 
     private bool IsCorrectLetter(string letter)
     {
-        return false;
+        return remainingWord.IndexOf(letter) == 0;
     }
 
     private void RemoveLetter()
     {
-
+        string newString = remainingWord.Remove(0, 1);
+        SetRemainingWord(newString);
     }
 
     private bool IsWordComplete()
     {
-
+        return remainingWord.Length == 0;
     }
 }
