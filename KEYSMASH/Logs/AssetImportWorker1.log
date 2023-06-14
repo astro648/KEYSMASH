@@ -298,3 +298,9 @@ Received Import Request.
   path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png
   artifactKey: Guid(44ae09ed76086b14e82d37feb30c7650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png using Guid(44ae09ed76086b14e82d37feb30c7650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401abdcb2f4624310e1b9b9f4d796d0d') in 0.021670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1581.190285 seconds.
+  path: Assets/Materials/FlatColors/LightRed.mat
+  artifactKey: Guid(532dad89e02b02a4c8100904652a532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/LightRed.mat using Guid(532dad89e02b02a4c8100904652a532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdecc9a6b5c2089c21190ae192c618f5') in 0.085618 seconds 

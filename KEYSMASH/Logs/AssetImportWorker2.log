@@ -274,3 +274,75 @@ Received Import Request.
   path: Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP
   artifactKey: Guid(b57a409b80fff1b4bbfdcdafcc3e4e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP using Guid(b57a409b80fff1b4bbfdcdafcc3e4e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936c4314c8afd160910f3ab0628f515f') in 0.007839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 295.728850 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.009801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.777104 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(7c1e69b1e1ca710448fd22d08df313bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(7c1e69b1e1ca710448fd22d08df313bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37a10787b9a37d6ec619b3ba55c58a4') in 0.008375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.624663 seconds.
+  path: Assets/Materials/FlatBlue.mat
+  artifactKey: Guid(2c20bb59fb39c2542bedc220d5f29a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatBlue.mat using Guid(2c20bb59fb39c2542bedc220d5f29a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e514465c852dd82647e18984e2dac654') in 0.083664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.803091 seconds.
+  path: Assets/Materials/FlatBlue.mat
+  artifactKey: Guid(2c20bb59fb39c2542bedc220d5f29a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatBlue.mat using Guid(2c20bb59fb39c2542bedc220d5f29a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93762d5690c622e3d504e8e7d98b952') in 0.014302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 250.392592 seconds.
+  path: Assets/Materials/FlatColors
+  artifactKey: Guid(6e1f2a646d68f8a43b90d6fccb4139ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors using Guid(6e1f2a646d68f8a43b90d6fccb4139ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc8914d0b9cbe18ab816d810388ea07') in 0.007758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 917.307981 seconds.
+  path: Assets/Materials/FlatColors/LightRed.mat
+  artifactKey: Guid(532dad89e02b02a4c8100904652a532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/LightRed.mat using Guid(532dad89e02b02a4c8100904652a532e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633d4f0a09924896ff8fcbe4b2621aec') in 0.015807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.115250 seconds.
+  path: Assets/Materials/FlatColors/MediumRed.mat
+  artifactKey: Guid(fe1d6caa240eeb7438d5aac4a54b07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/MediumRed.mat using Guid(fe1d6caa240eeb7438d5aac4a54b07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f9e96f22fee76b08ad0d0ccfe2a194') in 0.011103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.918488 seconds.
+  path: Assets/Materials/FlatColors/DarkRed.mat
+  artifactKey: Guid(5b46a6a5c34165e459db82ffaed2bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/DarkRed.mat using Guid(5b46a6a5c34165e459db82ffaed2bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26273f46dfda76527642bebbd24e6a2a') in 0.012537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.617031 seconds.
+  path: Assets/Materials/FlatColors/DarkRed.mat
+  artifactKey: Guid(5b46a6a5c34165e459db82ffaed2bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/DarkRed.mat using Guid(5b46a6a5c34165e459db82ffaed2bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf558dc02fb0d0b24ebbe426ca6b420') in 0.011795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/FlatColors/MediumRed.mat
+  artifactKey: Guid(fe1d6caa240eeb7438d5aac4a54b07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FlatColors/MediumRed.mat using Guid(fe1d6caa240eeb7438d5aac4a54b07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b945acc783dc343c9b011a741339775') in 0.021982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.997083 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(88dbd0c743a52424293369efb5ea656d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(88dbd0c743a52424293369efb5ea656d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7cd13a5d1b7f202d184830631aebeb') in 0.009026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014814 seconds.
+  path: Assets/Scenes/KEYSMASH.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/KEYSMASH.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e91f66288dc85762668a48c87a92e12') in 0.005194 seconds 
