@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Typing : MonoBehaviour
 {
-    // need word bank
+    public WordBank wordBank = null;
     public Text wordOutput = null;
     private string remainingWord = string.Empty;
     private string currentWord = "trojan"; // placeholder
@@ -17,7 +17,7 @@ public class Typing : MonoBehaviour
 
     private void SetCurrentWord()
     {
-        // get word from word bank
+        currentWord = wordBank.GetWord();
         SetRemainingWord(currentWord);
     }
 

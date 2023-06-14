@@ -1,3 +1,4 @@
+using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -40,6 +41,14 @@ public class WordBank : MonoBehaviour
 
     public string GetWord()
     {
+        string newWord = string.Empty;
+
+        if(workingWords.Count != 0)
+        {
+            newWord = workingWords.Last();
+            workingWords.Remove(newWord);
+        }
+
         return "";
     }
 }
