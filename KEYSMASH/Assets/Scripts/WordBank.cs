@@ -32,7 +32,10 @@ public class WordBank : MonoBehaviour
 
     private void ConvertToLower(List<string> list)
     {
-
+        for(int i = 0; i < list.Count; i++)
+        {
+            list[i] = list[i].ToLower();
+        }
     }
 
     public string GetWord()
