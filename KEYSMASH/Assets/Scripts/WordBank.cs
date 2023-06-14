@@ -11,15 +11,32 @@ public class WordBank : MonoBehaviour
 
     private List<string> workingWords = new List<string>();
 
-    // Start is called before the first frame update
-    void Start()
+    private void Awake()
     {
-        
+        workingWords.AddRange(originalWords);
+        ConvertToLower(workingWords);
+        Shuffle(workingWords);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Shuffle(List<string> list)
     {
-        
+        for(int i = 0; i < list.Count; i++)
+        {
+            int random = Random.Range(i, list.Count);
+            string temporary = list[i];
+
+            list[i] = list[random];
+            list[random] = temporary;
+        }
+    }
+
+    private void ConvertToLower(List<string> list)
+    {
+
+    }
+
+    public string GetWord()
+    {
+        return "";
     }
 }
