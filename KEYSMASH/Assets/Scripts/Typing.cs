@@ -29,12 +29,20 @@ public class Typing : MonoBehaviour
 
     private void Update()
     {
-        
+        CheckInput();
     }
 
     private void CheckInput()
     {
+        if (Input.anyKeyDown)
+        {
+            string keyPressed = Input.inputString;
 
+            if(keysPressed.Length == 1)
+            {
+                EnterLetter(keyPressed);
+            }
+        }
     }
 
     private void EnterLetter(string typedLetter)
