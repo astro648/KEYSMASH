@@ -8,7 +8,7 @@ public class Typing : MonoBehaviour
     public WordBank wordBank = null;
     public Text wordOutput = null;
     private string remainingWord = string.Empty;
-    private string currentWord = "trojan"; // placeholder
+    private string currentWord = string.Empty; // placeholder
     
     private void Start()
     {
