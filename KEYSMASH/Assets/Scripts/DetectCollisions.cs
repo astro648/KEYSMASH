@@ -7,7 +7,7 @@ public class DetectCollisions : MonoBehaviour
     public GameObject player;
     private void OnTriggerEnter(Collider other)
     {
-        Destroy(player);
+        // Destroy player gameobject, game over
         Destroy(gameObject);
     }
     // Change this in the future to lower player health
