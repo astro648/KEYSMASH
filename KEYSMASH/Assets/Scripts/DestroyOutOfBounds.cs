@@ -6,7 +6,6 @@ public class DestroyOutOfBounds : MonoBehaviour
 {
     private float xBound = 50;
     private float yBound = 50;
-    public GameObject player;
     void Start()
     {
         
